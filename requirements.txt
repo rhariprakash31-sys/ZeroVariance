@@ -1,0 +1,10 @@
+pandas
+pydantic
+google-genai
+pytest
+rich
+flask
+flask-cors
+stripe
+paypalrestsdk
+python-dotenv
